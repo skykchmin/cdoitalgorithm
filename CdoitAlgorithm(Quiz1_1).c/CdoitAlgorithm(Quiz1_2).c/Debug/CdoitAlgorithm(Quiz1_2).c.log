@@ -1,0 +1,5 @@
+﻿  Quiz1_2.c
+c:\users\skykc\source\repos\cdoitalgorithm(quiz1_2).c\cdoitalgorithm(quiz1_2).c\quiz1_2.c(23): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\skykc\source\repos\cdoitalgorithm(quiz1_2).c\cdoitalgorithm(quiz1_2).c\quiz1_2.c(16): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+c:\users\skykc\source\repos\cdoitalgorithm(quiz1_2).c\cdoitalgorithm(quiz1_2).c\quiz1_2.c(11): warning C4716: 'min3': 값을 반환해야 합니다.
+  CdoitAlgorithm(Quiz1_2).c.vcxproj -> C:\Users\skykc\source\repos\CdoitAlgorithm(Quiz1_2).c\Debug\CdoitAlgorithm(Quiz1_2).c.exe

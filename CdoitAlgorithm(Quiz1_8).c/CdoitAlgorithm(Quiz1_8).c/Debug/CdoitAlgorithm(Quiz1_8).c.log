@@ -1,0 +1,4 @@
+﻿  CdoitAlgorithm(Quiz1_8).c
+c:\users\skykc\source\repos\cdoitalgorithm(quiz1_8).c\cdoitalgorithm(quiz1_8).c\cdoitalgorithm(quiz1_8).c(17): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\skykc\source\repos\cdoitalgorithm(quiz1_8).c\cdoitalgorithm(quiz1_8).c\cdoitalgorithm(quiz1_8).c(5): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  CdoitAlgorithm(Quiz1_8).c.vcxproj -> c:\users\skykc\source\repos\CdoitAlgorithm(Quiz1_8).c\Debug\CdoitAlgorithm(Quiz1_8).c.exe

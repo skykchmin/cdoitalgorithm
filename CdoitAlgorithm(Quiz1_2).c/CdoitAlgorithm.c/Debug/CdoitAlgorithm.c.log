@@ -1,0 +1,2 @@
+﻿Quiz1_2.obj : error LNK2005: _main이(가) Quiz1_1.obj에 이미 정의되어 있습니다.
+C:\Users\skykc\source\repos\CdoitAlgorithm.c\Debug\CdoitAlgorithm.c.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
