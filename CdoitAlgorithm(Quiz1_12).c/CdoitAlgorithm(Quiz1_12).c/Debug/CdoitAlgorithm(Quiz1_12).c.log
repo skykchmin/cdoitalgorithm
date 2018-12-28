@@ -1,0 +1,4 @@
+﻿  CdoitAlgorithm(Quiz1_12).c
+c:\users\skykc\source\repos\cdoitalgorithm(quiz1_12).c\cdoitalgorithm(quiz1_12).c\cdoitalgorithm(quiz1_12).c(13): warning C4098: 'dan': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\skykc\source\repos\cdoitalgorithm(quiz1_12).c\cdoitalgorithm(quiz1_12).c\cdoitalgorithm(quiz1_12).c(24): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  CdoitAlgorithm(Quiz1_12).c.vcxproj -> C:\Users\skykc\source\repos\CdoitAlgorithm(Quiz1_12).c\Debug\CdoitAlgorithm(Quiz1_12).c.exe
