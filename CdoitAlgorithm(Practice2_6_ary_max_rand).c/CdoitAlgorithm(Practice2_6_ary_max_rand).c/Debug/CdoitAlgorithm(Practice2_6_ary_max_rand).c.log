@@ -1,0 +1,3 @@
+﻿  CdoitAlgorithm(Practice2_6_ary_max_rand).c
+c:\users\skykc\source\repos\cdoitalgorithm(practice2_6_ary_max_rand).c\cdoitalgorithm(practice2_6_ary_max_rand).c\cdoitalgorithm(practice2_6_ary_max_rand).c(22): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CdoitAlgorithm(Practice2_6_ary_max_rand).c.vcxproj -> c:\users\skykc\source\repos\CdoitAlgorithm(Practice2_6_ary_max_rand).c\Debug\CdoitAlgorithm(Practice2_6_ary_max_rand).c.exe
